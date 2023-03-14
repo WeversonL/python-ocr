@@ -1,0 +1,3 @@
+pathlib
+pytesseract
+pdf2image
